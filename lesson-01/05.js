@@ -7,7 +7,7 @@ switch (rule) {
       case length > 25:
          console.log("У меня 100 пудов все получится");
          break;
-         default: 
+      case length == 25:
          console.log("50 на 50"); 
    }
   
