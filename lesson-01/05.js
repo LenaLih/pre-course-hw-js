@@ -13,4 +13,3 @@ switch (true) {
          default:
             console.log("А что так можно было?");
    };
-  
