@@ -7,9 +7,9 @@ let passportMarried = {
    }
 };
 let passportMarried2 = {
+   married: true,
    name: "Petr",
    surname: "Petrov",
-   married: true,
    address: {
       country: "USA",
       city: "Bobryisk"
