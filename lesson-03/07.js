@@ -4,5 +4,5 @@ const numbers = [
    [111, 200, 333, 400, 555],
 ];
 for (let i = 0; i < numbers.length; i++) {
-   numbers[i] = numbers[i].filter(function (n) { return n % 2 !== 0 })}
+   numbers[i] = numbers[i].filter(function (n) { return n % 2 === 0 })}
    console.log(numbers);
